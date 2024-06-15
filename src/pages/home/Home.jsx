@@ -60,7 +60,7 @@ const Home = () => {
   return (
     <>
       <Navbar />
-      <div className=" mt-16 bg-cover  flex flex-col gap-5 image">
+      <div className="bg-cover  flex flex-col gap-5 image pt-20">
         <div className="w-[84%] mx-auto relative rounded-lg p-10 bg-white my-6 ">
           <div className="flex  flex-wrap ">
             <div className="w-full">
